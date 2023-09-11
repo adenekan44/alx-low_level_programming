@@ -4,22 +4,22 @@
  * main - Entry point
  *
  * Description: Prints all single-digit numbers of base 10 starting from 0,
- *              followed by a new line.
+ * followed by a new line.
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-    int number = 0;
+	int number = 0;
 
-    while (number <= 9)
-    {
-        putchar(number + '0');
-        number++;
-    }
+	while (number <= 9)
+	{
+		putchar(number + '0');
+		number++;
+	}
 
-    putchar('\n');
+	putchar('\n');
 
-    return (0);
+	return (0);
 }
 
