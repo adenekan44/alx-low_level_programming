@@ -5,11 +5,11 @@
   *    struct dog - dog class 
   *    
   *    @name: Name of the dog 
-  *    		
+  *    	tatiana	
   *    @age: Age of the dog 
-  *              
+  *     2         
   *    @owner: Owner of the dog 
-  *                
+  *      emma          
   */ 
   
  struct dog 
